@@ -1,46 +1,46 @@
 # **Projeto BoOkShelf**
 ## **Base Do Sistema**
 ### *Duas Semanas de Prazo*
-- Login  *Lucas*
-- Cadastro de Empresas *Valentim*
-- Cadastro de funcionários *Valentim*
-- Cadastro de novos livros *Valentim*
-- Criação de bancos de dados *Lucas/Valentim*
-- Backend 1 *Valentim*
-- Frontend 1 *Lucas*
-- Tela inicial *Lucas*
-- Tela de vendas *Valentim*
-- Carrinho de Compras *Valentim*
+- Login  28/03 *Lucas*
+- Cadastro de Empresas 28/03 *Valentim*
+- Cadastro de funcionários 29/03 *Valentim*
+- Cadastro de novos livros 31/03 *Valentim*
+- Criação de bancos de dados 30/03 *Lucas/Valentim*
+- Backend 1 01/04 *Valentim*
+- Frontend 1 29/03 *Lucas*
+- Tela inicial 31/03 *Lucas*
+- Tela de vendas 02/04 *Valentim*
+- Carrinho de Compras 05/04 *Valentim*
 
 ## **Funcionalidades principais**
 ### *Duas Semanas de Prazo*
-- Tela de Compras clientes *Valentim*
-- Tela de Compras *Valentim*
-- Tela de Pagamentos *Valentim*
-- Tela de Faturas *Valentim*
-- Tela de Planos *Lucas*
-- Tela de Pesquisa *Lucas*
-- Tela de Resultados *Lucas*
-- Tela de Mostruário *Valentim*
-- Tela de Autores *Valentim*
-- Tela de Editoras *Valentim*
-- Tela de Gêneros *Valentim*
-- Backend 2 *Valentim*
-- Frontend 2 *Lucas*
-- Backend 3 *Valentim*
-- Frontend 3 *Valentim*
+- Tela de Compras clientes 02/04 *Valentim*
+- Tela de Compras 04/04 *Valentim*
+- Tela de Pagamentos 05/04*Valentim*
+- Tela de Faturas 06/04 *Valentim*
+- Tela de Planos 01/04 *Lucas*
+- Tela de Pesquisa 02/04 *Lucas*
+- Tela de Resultados 04/04 *Lucas*
+- Tela de Mostruário 07/04*Valentim*
+- Tela de Autores 08/04 *Valentim*
+- Tela de Editoras 09/04 *Valentim*
+- Tela de Gêneros 10/04*Valentim*
+- Backend 2 11/04 *Valentim*
+- Frontend 2 05/04 *Lucas*
+- Backend 3 12/04 *Valentim*
+- Frontend 3 13/04 *Valentim*
 
 ## **Melhorias Extras**
 ### *Duas Semanas de Prazo*
-- Histórico *Lucas*
+- Histórico 06/04 *Lucas*
 - Mais Vendidos *Valentim*
 - Tela de Menos Vendidos *Valentim*
 - Integração com o WhatsApp *Valentim*
 - Importação das listas de pedidos *Valentim*
 - Exportação para a nuvem *Valentim*
 - LGPD *Valentim*
-- Documentação *Lucas*
+- Documentação 07/04 *Lucas*
 - Backend 4 *Valentim*
-- Frontend 4 *Lucas*
+- Frontend 4 08/04 *Lucas*
 - Backend 5 *Valentim*
-- Frontend 5 *Lucas*
+- Frontend 5 09/04 *Lucas*
