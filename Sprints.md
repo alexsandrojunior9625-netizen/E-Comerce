@@ -6,7 +6,7 @@
 - Cadastro de funcionários 29/03 *Valentim*
 - Cadastro de novos livros 31/03 *Valentim*
 - Criação de bancos de dados 30/03 *Lucas/Valentim*
-- - Tela inicial 31/03 *Lucas*
+- Tela inicial 31/03 *Lucas*
 - Tela de vendas 02/04 *Valentim*
 - Carrinho de Compras 05/04 *Valentim*
 - Backend 1 01/04 *Valentim*
