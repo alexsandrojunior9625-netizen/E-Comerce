@@ -4,7 +4,7 @@ LGPD 27/03 Valentim
 Descrição:todos os dados pessoais coletados são tratados com segurança, utilizados apenas para fins legítimos do sistema e protegidos contra acessos não autorizados, assegurando a privacidade dos usuários. 
   
 Cadastro de Empresas 28/03 Valentim  
-Descrição: 
+Descrição:O Cadastro de Empresas permite registrar e organizar fornecedores, editoras e parceiros da livraria. Integrado ao sistema, ajuda no controle de estoque, compras e vendas, além de manter o histórico de movimentações. Tudo com acesso seguro e em conformidade com a LGPD, facilitando a gestão de forma simples e eficiente. 
   
 Cadastro de funcionários 29/03 Valentim  
 Descrição:   
