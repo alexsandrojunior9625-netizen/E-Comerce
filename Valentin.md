@@ -10,75 +10,75 @@ Cadastro de funcionários 29/03 Valentim
 Descrição:   
 
 Cadastro de novos livros 31/03 Valentim  
-Descrição:   
+Descrição:     
 
 Criação de bancos de dados 30/03 Lucas/Valentim
 Descrição: 
-
-Backend 1 01/04 Valentim
-Descrição: 
-
-Tela de vendas 02/04 Valentim
-Descrição: 
-
-Sprint 2 Dev. Valentim
-----------------------------------------------------------
-Clientes Tela de Compras 06/04 Valentim
-Descrição: 
   
-Backend 2 08/04 Valentim  
-Descrição: 
+Backend 1 01/04 Valentim  
+Descrição:   
   
-Tela de Compras (empresas) 08/04 Valentim
-Descrição: 
+Tela de vendas 02/04 Valentim  
+Descrição:  
 
-Tela de Pagamentos 10/04 Valentim
-Descrição: 
+Sprint 2 Dev. Valentim  
+----------------------------------------------------------  
+Clientes Tela de Compras 06/04 Valentim  
+Descrição:   
+  
+Backend 2 08/04 Valentim    
+Descrição:   
+  
+Tela de Compras (empresas) 08/04 Valentim  
+Descrição:   
 
-Tela de Faturas 12/04 Valentim
-Descrição: 
+Tela de Pagamentos 10/04 Valentim  
+Descrição:   
 
-Frontend 2 14/04 Valentim
+Tela de Faturas 12/04 Valentim  
+Descrição:  
+
+Frontend 2 14/04 Valentim  
 Descrição: 
 
 Tela de Mostuário 15/04 Valentim
-Descrição: 
+Descrição:   
+  
+Tela de Autores 16/04 Valentim  
+Descrição:   
+  
+Tela de Editoras 17/04 Valentim  
+Descrição:  
 
-Tela de Autores 16/04 Valentim
-Descrição: 
-
-Tela de Editoras 17/04 Valentim
-Descrição: 
-
-Tela de Gêneros 18/04 Valentim
-Descrição: 
-
-Frontend 3 19/04 Valentim
-Descrição: 
-
-Sprint 3 Dev. Valentim
+Tela de Gêneros 18/04 Valentim  
+Descrição:   
+  
+Frontend 3 19/04 Valentim  
+Descrição:   
+  
+Sprint 3 Dev. Valentim  
 ---------------------------------------------------------
-Integração com o WhatsApp 21/04 Valentim
+Integração com o WhatsApp 21/04 Valentim  
 Descrição: 
+  
+Exportação para a nuvem 23/04 Valentim  
+Descrição:   
+  
+Backend 4 25/04 Valentim  
+Descrição:   
+  
+Histórico 26/04 Valentim  
+Descrição:   
+  
+Mais Vendidos 28/04 Valentim  
+Descrição:   
 
-Exportação para a nuvem 23/04 Valentim
-Descrição: 
+Tela de Menos Vendidos 30/04 Valentim  
+Descrição:   
 
-Backend 4 25/04 Valentim
-Descrição: 
-
-Histórico 26/04 Valentim
-Descrição: 
-
-Mais Vendidos 28/04 Valentim
-Descrição: 
-
-Tela de Menos Vendidos 30/04 Valentim
-Descrição: 
-
-Backend 5 02/04 Valentim
-Descrição: 
-
-Documentação 03/04 Alex/Valentim/Lucas
-Descrição: Realizar toda a documentação do projeto de modo que todas as funcionalidades, interfaces e dispositivos de compra,
+Backend 5 02/04 Valentim  
+Descrição:   
+  
+Documentação 03/04 Alex/Valentim/Lucas  
+Descrição: Realizar toda a documentação do projeto de modo que todas as funcionalidades, interfaces e dispositivos de compra,  
 venda e estocagem estejam 100% claras tanto para a parte vendedora quando para a de clientes.
