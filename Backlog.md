@@ -1,4 +1,6 @@
-Arquivo de tarefas (Alex): 
+----------------------------------------------------
+Arquivo de tarefas (Alex)
+----------------------------------------------------
 - Login (colaborador ou gerência)
 - Documentação
 - Tela de planos
@@ -37,3 +39,4 @@ Arquivo de tarefas (Alex):
 - Backend 5
 - Frontend 5
 - LGPD
+----------------------------------------------
