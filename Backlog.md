@@ -1,3 +1,8 @@
+*As tarefas foram organizadas nas Sprints com base em seu nível de relevância para o projeto:   
+Logo:   
+Sprint 1 = Tarefas de alta importancia;  
+Sprint 2 = Tarefas de média importacia;  
+Sprint 3 = Tarefas de baixa importancia ou atualizações futuras.  
 ----------------------------------------------------
 Arquivo de tarefas (Alex)
 ----------------------------------------------------
