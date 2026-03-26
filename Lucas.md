@@ -9,7 +9,7 @@ Descrição:
 Frontend 1 29/03 *Lucas  
 Descrição:  
    
-Criação de bancos de dados 30/03 Lucas/Valentim  
+Criação de bancos de dados 30/03 Lucas/Valentim 
 Descrição:   
   
 Tela inicial 31/03 Lucas  

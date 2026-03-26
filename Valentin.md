@@ -1,7 +1,7 @@
 Sprint 1 Dev. Valentim
 -----------------------------------------------------------
 LGPD 27/03 Valentim  
-Descrição: 
+Descrição:todos os dados pessoais coletados são tratados com segurança, utilizados apenas para fins legítimos do sistema e protegidos contra acessos não autorizados, assegurando a privacidade dos usuários. 
   
 Cadastro de Empresas 28/03 Valentim  
 Descrição: 
