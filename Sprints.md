@@ -33,14 +33,14 @@
 ## **Melhorias Extras**
 ### *Duas Semanas de Prazo*
 - Histórico 06/04 *Lucas*
-- Mais Vendidos *Valentim*
-- Tela de Menos Vendidos *Valentim*
-- Integração com o WhatsApp *Valentim*
-- Importação das listas de pedidos *Valentim*
-- Exportação para a nuvem *Valentim*
-- LGPD *Valentim*
+- Mais Vendidos 14/04 *Valentim*
+- Tela de Menos Vendidos 15/04*Valentim*
+- Integração com o WhatsApp 16/04 *Valentim*
+- Importação das listas de pedidos 17/04 *Valentim*
+- Exportação para a nuvem 18/04 *Valentim*
+- LGPD 19/04 *Valentim*
 - Documentação 07/04 *Lucas*
-- Backend 4 *Valentim*
+- Backend 4 20/04 *Valentim*
 - Frontend 4 08/04 *Lucas*
-- Backend 5 *Valentim*
+- Backend 5 21/04 *Valentim*
 - Frontend 5 09/04 *Lucas*
