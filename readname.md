@@ -1,4 +1,2 @@
-# Software de arquivo de uma livraria online
-
-O software servirá para catalogar o estoque de livros da livraria A, mantendo tudo organizado e catalogado de maneira simples, mostrando as entradas e saídas recentes, as compras realizadas pela empresa e as vendas dos últimos produtos. Buscamos trazer atualizações de pré-vendas a lançamentos para ter controle. 
-
+#BookShelf
+O software tem como objetivo organizar e catalogar o estoque de livros de uma livraria online de forma simples e eficiente. O sistema permitirá o login de colaboradores e gestores, garantindo controle e segurança das informações. Será possível cadastrar empresas, funcionários, clientes, autores, editoras, gêneros e novos livros. A plataforma contará com telas de vendas, mostruário, carrinho de compras e histórico de movimentações. Também permitirá visualizar pagamentos, faturas e planos disponíveis. O sistema mostrará entradas e saídas recentes, além dos livros mais e menos vendidos. Haverá importação de listas de pedidos e exportação de dados para a nuvem. O usuário poderá realizar pesquisas e acompanhar resultados em tempo real. O software terá integração com o WhatsApp para comunicação rápida. O desenvolvimento será dividido entre backend e frontend, seguindo as normas da LGPD.
