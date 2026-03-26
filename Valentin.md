@@ -7,7 +7,7 @@ Cadastro de Empresas 28/03 Valentim
 Descrição:O Cadastro de Empresas permite registrar e organizar fornecedores, editoras e parceiros da livraria. Integrado ao sistema, ajuda no controle de estoque, compras e vendas, além de manter o histórico de movimentações. Tudo com acesso seguro e em conformidade com a LGPD, facilitando a gestão de forma simples e eficiente. 
   
 Cadastro de funcionários 29/03 Valentim  
-Descrição:   
+Descrição:O módulo de Cadastro de Funcionários permite armazenar e organizar as informações dos colaboradores, controlando o acesso ao sistema. Integrando às demais funcionalidades, auxilia no acompanhamento de tarefas, vendas e movimentações, tornando a gestão mais prática e eficiente.   
 
 Cadastro de novos livros 31/03 Valentim  
 Descrição:     
