@@ -1,6 +1,7 @@
 # **Projeto BoOkShelf**
 ## **Base Do Sistema**
 ### *Duas Semanas de Prazo*
+- Prototipagem de telas 26/03 *Alex/Lucas*
 - Login  28/03 *Lucas*
 - Cadastro de Empresas 28/03 *Valentim*
 - Cadastro de funcionários 29/03 *Valentim*
