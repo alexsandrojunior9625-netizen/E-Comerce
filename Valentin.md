@@ -10,7 +10,7 @@ Cadastro de funcionários 29/03 Valentim
 Descrição:O módulo de Cadastro de Funcionários permite armazenar e organizar as informações dos colaboradores, controlando o acesso ao sistema. Integrando às demais funcionalidades, auxilia no acompanhamento de tarefas, vendas e movimentações, tornando a gestão mais prática e eficiente.   
 
 Cadastro de novos livros 31/03 Valentim  
-Descrição:     
+Descrição:O Cadastro de Novos Livros permite registrar e organizar todas as informações dos livros da livraria, como título, autor, gênero e editora. Integrado ao sistema, facilita o controle de estoque, acompanhando entradas, saídas e desempenho de vendas de forma simples e eficiente.     
 
 Criação de bancos de dados 30/03 Lucas/Valentim
 Descrição: 
