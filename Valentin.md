@@ -1,16 +1,16 @@
 Sprint 1 Dev. Valentim
 -----------------------------------------------------------
-LGPD 27/03 Valentim
+LGPD 27/03 Valentim  
 Descrição: 
+  
+Cadastro de Empresas 28/03 Valentim  
+Descrição: 
+  
+Cadastro de funcionários 29/03 Valentim  
+Descrição:   
 
-Cadastro de Empresas 28/03 Valentim
-Descrição: 
-
-Cadastro de funcionários 29/03 Valentim
-Descrição: 
-
-Cadastro de novos livros 31/03 Valentim
-Descrição: 
+Cadastro de novos livros 31/03 Valentim  
+Descrição:   
 
 Criação de bancos de dados 30/03 Lucas/Valentim
 Descrição: 
@@ -25,10 +25,10 @@ Sprint 2 Dev. Valentim
 ----------------------------------------------------------
 Clientes Tela de Compras 06/04 Valentim
 Descrição: 
-
-Backend 2 08/04 Valentim
+  
+Backend 2 08/04 Valentim  
 Descrição: 
-
+  
 Tela de Compras (empresas) 08/04 Valentim
 Descrição: 
 
