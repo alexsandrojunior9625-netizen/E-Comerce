@@ -71,7 +71,7 @@ Histórico 26/04 Valentim
 Descrição:Desenvolver a funcionalidade de Histórico para clientes, permitindo a visualização das compras realizadas, pedidos e transações.   
   
 Mais Vendidos 28/04 Valentim  
-Descrição:   
+Descrição:Implementar a funcionalidade de Mais Vendidos, desenvolvendo a lógica para identificar os livros com maior número de vendas e organizar esses dados. Integrar com o sistema para atualizar automaticamente as informações e disponibilizar os resultados para exibição nas telas.   
 
 Tela de Menos Vendidos 30/04 Valentim  
 Descrição:   
