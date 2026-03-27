@@ -10,7 +10,7 @@ Frontend 1 29/03 *Lucas
 Descrição:  O Frontend 1 envolve o desenvolvimento da interface inicial do sistema, implementando as telas principais com base na prototipagem. Inclui a estrutura visual, estilização e interatividade básica, proporcionando uma experiência amigável ao usuário.
    
 Criação de bancos de dados 30/03 Lucas/Valentim 
-Descrição:   
+Descrição:    A criação do banco de dados consiste na estruturação das tabelas e relacionamentos necessários para armazenar as informações do sistema, como usuários, livros, vendas e estoque. Essa etapa garante organização, segurança e eficiência no armazenamento dos dados.
   
 Tela inicial 31/03 Lucas  
 Descrição:  
