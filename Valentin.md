@@ -24,7 +24,7 @@ Descrição:A Tela de Vendas possibilita realizar e acompanhar as vendas de mane
 Sprint 2 Dev. Valentim  
 ----------------------------------------------------------  
 Clientes Tela de Compras 06/04 Valentim  
-Descrição:   
+Descrição:Tela de Compras para clientes, permitindo a exibição dos livros disponíveis, adição de itens ao carrinho e finalização de pedidos. Implementar a integração com o sistema para registro das compras, atualização automática do estoque e armazenamento do histórico de transações.   
   
 Backend 2 08/04 Valentim    
 Descrição:   
