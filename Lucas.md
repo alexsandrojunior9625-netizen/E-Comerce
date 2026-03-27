@@ -24,7 +24,7 @@ Tela de Planos 05/04 Lucas
 Descrição:  A tela de planos permite visualizar e gerenciar os diferentes planos disponíveis no sistema. Nela, o usuário pode consultar informações, comparar opções e selecionar o plano mais adequado às suas necessidades.
   
 Tela de Pesquisa 06/04 Lucas  
-Descrição:  
+Descrição:  A tela de pesquisa possibilita ao usuário buscar itens dentro do sistema de forma rápida e eficiente. Inclui filtros e organização dos resultados para facilitar a navegação e localização das informações.
   
 Importação das listas de pedidos 08/04 Lucas  
 Descrição:  
