@@ -42,7 +42,7 @@ Frontend 2 14/04 Valentim
 Descrição:implementar o Frontend 2, desenvolvendo e refinando as interfaces do sistema para garantir usabilidade e organização. Realizar a integração com o backend para apresentar dados atualizados, como estoque, vendas e cadastros, proporcionando uma experiência clara e eficiente ao usuário. 
 
 Tela de Mostuário 15/04 Valentim
-Descrição:   
+Descrição:Desenvolver a Tela de Mostruário, permitindo a exibição dos livros disponíveis de forma organizada e atrativa. Implementar a integração com o sistema para apresentar informações atualizadas, como títulos, preços e disponibilidade em estoque.   
   
 Tela de Autores 16/04 Valentim  
 Descrição:   
