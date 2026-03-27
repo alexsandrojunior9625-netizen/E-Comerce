@@ -59,7 +59,7 @@ Descrição:Desenvolver o Frontend 3, implementando novas interfaces e ajustes v
 Sprint 3 Dev. Valentim  
 ---------------------------------------------------------
 Integração com o WhatsApp 21/04 Valentim  
-Descrição: 
+Descrição:Implementar a integração com o WhatsApp, permitindo o envio de mensagens para clientes e empresas, como confirmações de pedidos, atualizações e notificações. Realizar a conexão com o sistema para automatizar a comunicação e manter o registro das interações. 
   
 Exportação para a nuvem 23/04 Valentim  
 Descrição:   
