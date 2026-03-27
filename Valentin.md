@@ -62,7 +62,7 @@ Integração com o WhatsApp 21/04 Valentim
 Descrição:Implementar a integração com o WhatsApp, permitindo o envio de mensagens para clientes e empresas, como confirmações de pedidos, atualizações e notificações. Realizar a conexão com o sistema para automatizar a comunicação e manter o registro das interações. 
   
 Exportação para a nuvem 23/04 Valentim  
-Descrição:   
+Descrição:Implementar a exportação de dados para a nuvem, permitindo o envio e armazenamento seguro de informações do sistema. Realizar a integração para garantir backup, acesso remoto e atualização dos dados de forma confiável.   
   
 Backend 4 25/04 Valentim  
 Descrição:   
