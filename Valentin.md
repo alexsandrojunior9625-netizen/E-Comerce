@@ -68,7 +68,7 @@ Backend 4 25/04 Valentim
 Descrição:Desenvolver o Backend 4, implementando rotinas de integração e processamento de dados, como exportação para a nuvem e sincronização de informações. Garantir a consistência dos dados, automação de tarefas e o correto funcionamento das operações no sistema.   
   
 Histórico 26/04 Valentim  
-Descrição:   
+Descrição:Desenvolver a funcionalidade de Histórico para clientes, permitindo a visualização das compras realizadas, pedidos e transações.   
   
 Mais Vendidos 28/04 Valentim  
 Descrição:   
