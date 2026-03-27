@@ -51,7 +51,7 @@ Tela de Editoras 17/04 Valentim
 Descrição:Desenvolver a Tela de Editoras, permitindo o cadastro, visualização e edição das informações das editoras. Implementar a integração com o sistema para vinculá-las aos livros e manter os dados atualizados.  
 
 Tela de Gêneros 18/04 Valentim  
-Descrição:   
+Descrição:Desenvolver a Tela de Gêneros, permitindo o cadastro, visualização e edição dos gêneros literários. Implementar a integração com o sistema para vinculá-los aos livros e manter as informações atualizadas.   
   
 Frontend 3 19/04 Valentim  
 Descrição:   
