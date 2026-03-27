@@ -27,7 +27,7 @@ Clientes Tela de Compras 06/04 Valentim
 Descrição:Tela de Compras para clientes, permitindo a exibição dos livros disponíveis, adição de itens ao carrinho e finalização de pedidos. Implementar a integração com o sistema para registro das compras, atualização automática do estoque e armazenamento do histórico de transações.   
   
 Backend 2 08/04 Valentim    
-Descrição:   
+Descrição:Desenvolver o Backend 2, focando na implementação das funcionalidades de processamento de vendas, controle de pagamentos e gerenciamento de pedidos. Realizar a integração com as demais partes do sistema para garantir a atualização de dados, como estoque e histórico de transações, além de assegurar o correto funcionamento das operações.   
   
 Tela de Compras (empresas) 08/04 Valentim  
 Descrição:   
