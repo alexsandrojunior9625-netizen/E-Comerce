@@ -16,7 +16,7 @@ Tela inicial 31/03 Lucas
 Descrição:  A tela inicial é a página principal do sistema, sendo o primeiro contato do usuário. Ela apresenta as principais funcionalidades, atalhos e informações relevantes, facilitando a navegação e o acesso às demais áreas do sistema.
   
 Carrinho de Compras 02/04 Lucas  
-Descrição:  
+Descrição:  O carrinho de compras permite que os usuários adicionem, removam e visualizem produtos antes de finalizar a compra. Ele organiza os itens selecionados, calcula valores e prepara o processo para a finalização da compra de forma prática e eficiente.
   
 Sprint 2 Dev. Lucas  
 ----------------------------------------------------
