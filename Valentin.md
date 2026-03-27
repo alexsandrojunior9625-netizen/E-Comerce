@@ -33,7 +33,7 @@ Tela de Compras (empresas) 08/04 Valentim
 Descrição:Desenvolver a Tela de Compras para empresas, permitindo o registro de pedidos de fornecedores e a visualização de produtos disponíveis. Implementar a integração com o sistema para atualizar o estoque com as entradas de livros, registrar as compras realizadas e manter o histórico das transações.   
 
 Tela de Pagamentos 10/04 Valentim  
-Descrição:   
+Descrição:Desenvolver a Tela de Pagamentos, permitindo o registro e gerenciamento de pagamentos, visualização de valores, faturas e formas de pagamento. Implementar a integração com o sistema para atualizar o status das transações, vincular pagamentos às vendas e manter o histórico financeiro.   
 
 Tela de Faturas 12/04 Valentim  
 Descrição:  
