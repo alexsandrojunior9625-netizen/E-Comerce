@@ -1,7 +1,7 @@
 Sprint 1: Dev. Lucas
 --------------------------------------------------
 Prototipagem de telas 26/03 Alex/Lucas  
-Descrição:  
+Descrição:  A prototipagem de telas consiste na criação do design inicial do sistema, definindo a estrutura visual, layout e navegação das páginas. Essa etapa permite visualizar como o usuário irá interagir com o sistema antes do desenvolvimento, facilitando ajustes e melhorias na usabilidade.
   
 Login 28/03 Lucas   
 Descrição:   
