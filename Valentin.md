@@ -39,7 +39,7 @@ Tela de Faturas 12/04 Valentim
 Descrição:Desenvolver a Tela de Faturas, permitindo a visualização, geração e gerenciamento de faturas relacionadas às vendas e compras. Implementar a integração com o sistema para vincular faturas às transações, atualizar seus status e manter o histórico financeiro organizado.  
 
 Frontend 2 14/04 Valentim  
-Descrição: 
+Descrição:implementar o Frontend 2, desenvolvendo e refinando as interfaces do sistema para garantir usabilidade e organização. Realizar a integração com o backend para apresentar dados atualizados, como estoque, vendas e cadastros, proporcionando uma experiência clara e eficiente ao usuário. 
 
 Tela de Mostuário 15/04 Valentim
 Descrição:   
