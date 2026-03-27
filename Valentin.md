@@ -30,7 +30,7 @@ Backend 2 08/04 Valentim
 Descrição:Desenvolver o Backend 2, focando na implementação das funcionalidades de processamento de vendas, controle de pagamentos e gerenciamento de pedidos. Realizar a integração com as demais partes do sistema para garantir a atualização de dados, como estoque e histórico de transações, além de assegurar o correto funcionamento das operações.   
   
 Tela de Compras (empresas) 08/04 Valentim  
-Descrição:   
+Descrição:Desenvolver a Tela de Compras para empresas, permitindo o registro de pedidos de fornecedores e a visualização de produtos disponíveis. Implementar a integração com o sistema para atualizar o estoque com as entradas de livros, registrar as compras realizadas e manter o histórico das transações.   
 
 Tela de Pagamentos 10/04 Valentim  
 Descrição:   
