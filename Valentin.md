@@ -54,7 +54,7 @@ Tela de Gêneros 18/04 Valentim
 Descrição:Desenvolver a Tela de Gêneros, permitindo o cadastro, visualização e edição dos gêneros literários. Implementar a integração com o sistema para vinculá-los aos livros e manter as informações atualizadas.   
   
 Frontend 3 19/04 Valentim  
-Descrição:   
+Descrição:Desenvolver o Frontend 3, implementando novas interfaces e ajustes visuais no sistema para melhorar a organização e usabilidade. Realizar a integração com o backend para garantir a exibição correta e atualizada dos dados nas telas.   
   
 Sprint 3 Dev. Valentim  
 ---------------------------------------------------------
