@@ -30,7 +30,7 @@ Importação das listas de pedidos 08/04 Lucas
 Descrição:  A funcionalidade de importação de listas de pedidos permite inserir dados em grande quantidade no sistema de forma automatizada, facilitando o cadastro e atualização de informações sem a necessidade de inserção manual.
   
 Tela de Resultados 14/04 Lucas  
-Descrição:  
+Descrição:  A tela de resultados exibe as informações obtidas a partir de buscas ou ações realizadas no sistema, organizando os dados de forma clara e objetiva para melhor visualização do usuário.
   
 Backend 3 18/04 Lucas  
 Descrição:  
