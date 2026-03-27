@@ -19,7 +19,7 @@ Backend 1 01/04 Valentim
 Descrição:O Backend 1 é responsável pela estrutura e funcionamento do sistema, gerenciando dados, regras de negócio e integrações. Ele garante o processamento das informações, como cadastros, estoque, vendas e consultas, assegurando desempenho, organização e segurança no funcionamento da plataforma. 
   
 Tela de vendas 02/04 Valentim  
-Descrição:  
+Descrição:A Tela de Vendas possibilita realizar e acompanhar as vendas de maneira prática, mostrando produtos, preços e opções de pagamento. Integrada ao sistema, atualiza o estoque automaticamente e registra o histórico das transações, auxiliando no controle e na organização das vendas.  
 
 Sprint 2 Dev. Valentim  
 ----------------------------------------------------------  
