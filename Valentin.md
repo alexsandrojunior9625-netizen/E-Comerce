@@ -48,7 +48,7 @@ Tela de Autores 16/04 Valentim
 Descrição:Desenvolver a Tela de Autores, permitindo o cadastro, visualização e edição das informações dos autores. Implementar a integração com o sistema para vincular autores aos livros e manter os dados atualizados.   
   
 Tela de Editoras 17/04 Valentim  
-Descrição:  
+Descrição:Desenvolver a Tela de Editoras, permitindo o cadastro, visualização e edição das informações das editoras. Implementar a integração com o sistema para vinculá-las aos livros e manter os dados atualizados.  
 
 Tela de Gêneros 18/04 Valentim  
 Descrição:   
