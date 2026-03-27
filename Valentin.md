@@ -77,7 +77,7 @@ Tela de Menos Vendidos 30/04 Valentim
 Descrição:Desenvolver a Tela de Menos Vendidos, implementando a lógica para identificar os livros com menor número de vendas. Integrar com o sistema para atualizar os dados automaticamente e exibir as informações de forma organizada na tela.   
 
 Backend 5 02/04 Valentim  
-Descrição:   
+Descrição:Desenvolver o Backend 5, criando a lógica para coletar, processar e organizar os dados de vendas. Implementar rotinas que permitam identificar os livros mais e menos vendidos e garantir a integração com o sistema para disponibilizar essas informações nas telas.   
   
 Documentação 03/04 Alex/Valentim/Lucas  
 Descrição: Realizar toda a documentação do projeto de modo que todas as funcionalidades, interfaces e dispositivos de compra,  
