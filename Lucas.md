@@ -7,7 +7,7 @@ Login 28/03 Lucas
 Descrição:   O módulo de login permite que os usuários acessem o sistema de forma segura, utilizando credenciais como e-mail e senha. Ele garante autenticação e controle de acesso, protegendo os dados e funcionalidades conforme o nível de permissão de cada usuário.
   
 Frontend 1 29/03 *Lucas  
-Descrição:  
+Descrição:  O Frontend 1 envolve o desenvolvimento da interface inicial do sistema, implementando as telas principais com base na prototipagem. Inclui a estrutura visual, estilização e interatividade básica, proporcionando uma experiência amigável ao usuário.
    
 Criação de bancos de dados 30/03 Lucas/Valentim 
 Descrição:   
