@@ -27,7 +27,7 @@ Tela de Pesquisa 06/04 Lucas
 Descrição:  A tela de pesquisa possibilita ao usuário buscar itens dentro do sistema de forma rápida e eficiente. Inclui filtros e organização dos resultados para facilitar a navegação e localização das informações.
   
 Importação das listas de pedidos 08/04 Lucas  
-Descrição:  
+Descrição:  A funcionalidade de importação de listas de pedidos permite inserir dados em grande quantidade no sistema de forma automatizada, facilitando o cadastro e atualização de informações sem a necessidade de inserção manual.
   
 Tela de Resultados 14/04 Lucas  
 Descrição:  
