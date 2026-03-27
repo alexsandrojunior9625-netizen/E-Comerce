@@ -38,7 +38,7 @@ Descrição:  O Backend 3 corresponde à implementação e aprimoramento das fun
 Sprint 3 Dev. Lucas
 ----------------------------------------------------
 Frontend 4 25/04 Lucas
-Descrição:
+Descrição:  O Frontend 4 dá continuidade ao desenvolvimento da interface do sistema, implementando melhorias visuais, novas funcionalidades e garantindo uma navegação mais fluida e intuitiva.
 
 Frontend 5 02/04 Lucas
 Descrição:
