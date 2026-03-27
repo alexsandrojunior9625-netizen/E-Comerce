@@ -36,7 +36,7 @@ Tela de Pagamentos 10/04 Valentim
 Descrição:Desenvolver a Tela de Pagamentos, permitindo o registro e gerenciamento de pagamentos, visualização de valores, faturas e formas de pagamento. Implementar a integração com o sistema para atualizar o status das transações, vincular pagamentos às vendas e manter o histórico financeiro.   
 
 Tela de Faturas 12/04 Valentim  
-Descrição:  
+Descrição:Desenvolver a Tela de Faturas, permitindo a visualização, geração e gerenciamento de faturas relacionadas às vendas e compras. Implementar a integração com o sistema para vincular faturas às transações, atualizar seus status e manter o histórico financeiro organizado.  
 
 Frontend 2 14/04 Valentim  
 Descrição: 
