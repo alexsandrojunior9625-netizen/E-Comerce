@@ -13,7 +13,7 @@ Criação de bancos de dados 30/03 Lucas/Valentim
 Descrição:    A criação do banco de dados consiste na estruturação das tabelas e relacionamentos necessários para armazenar as informações do sistema, como usuários, livros, vendas e estoque. Essa etapa garante organização, segurança e eficiência no armazenamento dos dados.
   
 Tela inicial 31/03 Lucas  
-Descrição:  
+Descrição:  A tela inicial é a página principal do sistema, sendo o primeiro contato do usuário. Ela apresenta as principais funcionalidades, atalhos e informações relevantes, facilitando a navegação e o acesso às demais áreas do sistema.
   
 Carrinho de Compras 02/04 Lucas  
 Descrição:  
