@@ -45,7 +45,7 @@ Tela de Mostuário 15/04 Valentim
 Descrição:Desenvolver a Tela de Mostruário, permitindo a exibição dos livros disponíveis de forma organizada e atrativa. Implementar a integração com o sistema para apresentar informações atualizadas, como títulos, preços e disponibilidade em estoque.   
   
 Tela de Autores 16/04 Valentim  
-Descrição:   
+Descrição:Desenvolver a Tela de Autores, permitindo o cadastro, visualização e edição das informações dos autores. Implementar a integração com o sistema para vincular autores aos livros e manter os dados atualizados.   
   
 Tela de Editoras 17/04 Valentim  
 Descrição:  
