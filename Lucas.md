@@ -41,7 +41,7 @@ Frontend 4 25/04 Lucas
 Descrição:  O Frontend 4 dá continuidade ao desenvolvimento da interface do sistema, implementando melhorias visuais, novas funcionalidades e garantindo uma navegação mais fluida e intuitiva.
 
 Frontend 5 02/04 Lucas
-Descrição:
+Descrição:  O Frontend 5 envolve o aprimoramento das telas já desenvolvidas, com foco em responsividade, ajustes de layout e melhorias na experiência do usuário.
 
 Documentação 03/04 Alex/Valentim/Lucas
 Descrição: Realizar toda a documentação do projeto, de modo que todas as funcionalidades, terefas e interface fiquem claras e explicadas.
