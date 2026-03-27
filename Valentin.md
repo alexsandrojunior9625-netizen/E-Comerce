@@ -65,7 +65,7 @@ Exportação para a nuvem 23/04 Valentim
 Descrição:Implementar a exportação de dados para a nuvem, permitindo o envio e armazenamento seguro de informações do sistema. Realizar a integração para garantir backup, acesso remoto e atualização dos dados de forma confiável.   
   
 Backend 4 25/04 Valentim  
-Descrição:   
+Descrição:Desenvolver o Backend 4, implementando rotinas de integração e processamento de dados, como exportação para a nuvem e sincronização de informações. Garantir a consistência dos dados, automação de tarefas e o correto funcionamento das operações no sistema.   
   
 Histórico 26/04 Valentim  
 Descrição:   
