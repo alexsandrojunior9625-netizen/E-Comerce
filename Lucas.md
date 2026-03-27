@@ -21,7 +21,7 @@ Descrição:  O carrinho de compras permite que os usuários adicionem, removam 
 Sprint 2 Dev. Lucas  
 ----------------------------------------------------
 Tela de Planos 05/04 Lucas  
-Descrição:  
+Descrição:  A tela de planos permite visualizar e gerenciar os diferentes planos disponíveis no sistema. Nela, o usuário pode consultar informações, comparar opções e selecionar o plano mais adequado às suas necessidades.
   
 Tela de Pesquisa 06/04 Lucas  
 Descrição:  
