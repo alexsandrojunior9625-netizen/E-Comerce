@@ -1,6 +1,7 @@
 # **Projeto BoookShelf**
 ## **Base Do Sistema**
 ### *Uma Semanas de Prazo*
+*Ojetivo: Criar as bases do projeto e iniciar o escopo de software, além das tarefas iniciais.*
 - Prototipagem de telas 26/03 *Alex/Lucas*
 - LGPD 27/03 *Valentim*
 - Login  28/03 *Lucas*
@@ -16,6 +17,7 @@
 
 ## **Funcionalidades principais**
 ### *Duas Semanas de Prazo*
+*Ojetivo: Finalizar as estruturas básicas para o funcionamento.*
 - Tela de Planos 05/04 *Lucas*
 - Tela de Compras clientes 06/04 *Valentim*
 - Tela de Pesquisa 06/04 *Lucas*
@@ -34,7 +36,8 @@
 - Frontend 3 19/04 *Valentim*
 
 ## **Melhorias Extras**
-### *Duas Semanas de Prazo*
+### *Duas Semanas de Prazo*  
+*Ojetivo: Realizar as atualizações e mmodificações finais*
 - Integração com o WhatsApp 21/04 *Valentim*
 - Exportação para a nuvem 23/04 *Valentim*
 - Backend 4 25/04 *Valentim*
